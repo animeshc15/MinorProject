@@ -2,6 +2,12 @@
 
 This is a part of the minor project for our university coursework.
 
+# Team Members
+
+- Animesh Chaturvedi
+- Aadhav Vignesh
+- Aman Gaharwar
+
 # Usage
 
 Start by compiling files:
@@ -29,4 +35,4 @@ The script will generate CSVs for each algorithm, wherein the algorithm is ran o
 
 # Final Report
 
-Report will be added soon.
+Report link: https://github.com/aman1103/MinorProject/releases/download/Report/report.pdf
